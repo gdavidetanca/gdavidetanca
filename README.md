@@ -1,10 +1,7 @@
 ### Hi, I'm Davide 👋
 #### Frontend web developer
-I'm a self-taught web developer freelancer, mostly working with ReactJS but I like to stay updated on the newest technologies and experimenting as much as I can.
+I'm a web developer freelance, working mostly with ReactJS.
 
-Skills: REACT / JS / TYPESCRIPT / HTML / CSS
-
-![GitHub metrics](https://metrics.lecoq.io/gdavidetanca)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gdavidetanca)  
+#### Main technologies
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
